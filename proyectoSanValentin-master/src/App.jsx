@@ -13,7 +13,7 @@ function App() {
   const [valueSi, setValueSi] = useState(false)
 
   let random = [{
-    id: 1,
+    id: 0,
     description: "Piénsalo muy bien.",
     img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
   },
